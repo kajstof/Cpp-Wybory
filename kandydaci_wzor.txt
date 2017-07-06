@@ -1,0 +1,63 @@
+1
+Donald Tusk
+Platforma Obywatelska
+2
+Grzegorz Schetyna
+Platforma Obywatelska
+3
+Hanna Gronkiewicz-Waltz
+Platforma Obywatelska
+4
+Ewa Kopacz
+Platforma Obywatelska
+5
+Radoslaw Sikorski
+Platforma Obywatelska
+6
+Pawel Gras
+Platforma Obywatelska
+7
+Cezary Grabarczyk
+Platforma Obywatelska
+1
+Jaroslaw Kaczynski
+Prawo i Sprawiedliwosc
+2
+Zbigniew Ziobro
+Prawo i Sprawiedliwosc
+3
+Marek Kuchcinski
+Prawo i Sprawiedliwosc
+4
+Ryszard Czarnecki
+Prawo i Sprawiedliwosc
+5
+Beata Kempa
+Prawo i Sprawiedliwosc
+6
+Jacek Kurski
+Prawo i Sprawiedliwosc
+7
+Karol Karski
+Prawo i Sprawiedliwosc
+1
+Grzegorz Napieralski
+Sojusz Lewicy Demokratycznej
+2
+Katarzyna Piekarska
+Sojusz Lewicy Demokratycznej
+3
+Janusz Zemke
+Sojusz Lewicy Demokratycznej
+4
+Ryszard Kalisz
+Sojusz Lewicy Demokratycznej
+5
+Leszek Miller
+Sojusz Lewicy Demokratycznej
+6
+Marek Wikiński
+Sojusz Lewicy Demokratycznej
+7
+Jerzy Wenderlich
+Sojusz Lewicy Demokratycznej
